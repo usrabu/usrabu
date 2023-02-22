@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **usrabu/usrabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![<ybouzafo>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ybouzafo>)](https://github.com/oakoudad/badge42)
